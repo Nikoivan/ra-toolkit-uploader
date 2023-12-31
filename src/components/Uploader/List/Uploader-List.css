@@ -1,0 +1,7 @@
+.Uploader-List {
+  min-width: 500px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}

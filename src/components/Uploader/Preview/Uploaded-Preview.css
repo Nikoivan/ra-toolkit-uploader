@@ -1,0 +1,13 @@
+.Uploader-Preview {
+  min-width: 300px;
+  min-height: 330px;
+}
+
+.Preview-Image {
+  width: 200px;
+  height: 200px;
+}
+
+.Preview-FileName {
+  display: block;
+}
